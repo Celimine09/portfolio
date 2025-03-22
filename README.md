@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring a luxury design with gold accents and smooth animations.
 
-![Portfolio Screenshot](public/img/portfolio-screenshot.png)
+![Portfolio Screenshot](/portfolio-screenshot.png)
 
 ## 🌟 Features
 
