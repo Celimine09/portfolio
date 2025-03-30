@@ -60,6 +60,23 @@ const Portfolio = () => {
       link: "https://github.com/Celimine09/simple-todolist-front.git",
     },
     {
+      title: "TickTick Ticket Management Website",
+      description:
+        "A sleek, modern helpdesk system that streamlines support ticket management with an intuitive interface. Track issues from creation to resolution with comprehensive status monitoring, detailed history tracking, and insightful analytics.",
+      imageSrc: "/img/ticktick.png",
+      tags: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "RESTful APIs",
+        "Jest Testing",
+      ],
+      link: "https://github.com/Celimine09/ticket-front.git",
+    },
+    {
       title: "Hospital Management Website",
       description:
         "My initial step into web development: designed user authentication, navigation bar, and database structure to provide convenient and clear hospital service information.",
